@@ -13,17 +13,17 @@
 ## 🚀 個人開発
 「AI × 効率化」を軸に、最新の技術スタックを用いたプロダクトを開発しています。
 
-### [colog](https://github.com/apple428/colog) (Private)
+### [colog] (Private)
 **AIインタビュー型ブログ執筆サポートツール**
 - **技術スタック:** Next.js (App Router), Turso, Cloudflare R2, Cloudflare Pages, Gemini API
 - **特徴:** AIとの対話を通じて、ユーザーの思考を整理し記事化を支援します。
 
-### [ReplyPilot](https://github.com/apple428/ReplyPilot) (Private)
+### [ReplyPilot] (Private)
 **CS向けAI回答生成アシスタント**
 - **技術スタック:** Next.js (App Router), Turso, Gemini API
 - **特徴:** FAQデータを参照し、顧客対応の一次回答を自動生成します。
 
-### [LogicPass](https://github.com/apple428/QualiA) (Private)
+### [LogicPass] (Private)
 **試験対策用AIクイズ生成アプリ**
 - **技術スタック:** Next.js (App Router), Turso, Cloudflare R2, Cloudflare Pages, Gemini API
 - **特徴:** PDFや画像から即座に練習問題を作成し、学習効率を最大化します。
