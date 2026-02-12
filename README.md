@@ -5,6 +5,7 @@
 
 ## 🛠 現在取り組んでいる業務 (実務)
 現在は自社システムの技術刷新（リプレイス）プロジェクトに中核メンバーとして参画しています。
+また、PHP(Vanilla)のカスタマイズ案件複数にSEとして参加しました。
 
 - **オンプレミス資産のAWS移行**: PHP(Vanilla)からLaravel + Reactへのフルリプレイス
 - **開発環境の標準化**: Dockerを用いたコンテナ化の推進
@@ -29,7 +30,7 @@
 
 ## 🧰 スキルセット
 - **フロントエンド:** React, Next.js, TypeScript, Inertia.js
-- **バックエンド:** PHP (Laravel / Vanilla), Go (Learning)
+- **バックエンド:** PHP (Laravel / Vanilla), Next.js
 - **インフラ:** AWS (EC2, RDS, S3), Docker
 - **データベース:** MySQL, MariaDB, PostgreSQL, Turso, Supabase
 - **AI:** Gemini API
